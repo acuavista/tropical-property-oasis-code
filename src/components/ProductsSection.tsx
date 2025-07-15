@@ -32,7 +32,7 @@ const ProductsSection = () => {
     {
       title: "Buildable Lots",
       image: premiumBeachfront,
-      description: "Prime real estate properties in Cartagena. Perfect for building your dream tropical home with stunning ocean views and easy beach access.",
+      description: "Prime real estate properties in Cartagena. Perfect for building your tropical home with stunning ocean views and easy beach access.",
       link: "/properties",
       icon: "ph ph-house"
     },
